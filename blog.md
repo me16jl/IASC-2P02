@@ -11,4 +11,4 @@ Text analysis tool shows the trend in words and how Ramsay used certain words fr
 Works Cited
 Ramsay, S. (2012). Reading machines: toward an algorithmic criticism. Urbana, IL: University of Illinois Press.
 Ridolfo, J., & Hart-Davidson, W. (2015). Rhetoric and the Digital Humanities.
-
+c
