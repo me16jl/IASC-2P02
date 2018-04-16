@@ -4,7 +4,7 @@ The rhetorical approach demonstrates one corpus, the relationship between primar
 Ramsay also recognizes the differences between scientific and humanistic research which science needs interpretation, rhetoric, social construction, and politics. Humanistic respects human actions and it does not have any one answer, it ensures to keep the discussion going. Both science and humanities fields seek to identify patterns but, using computational tools simply provide them with greater powers of observation, which greater formulations can be conducted. The computational tools are becoming more complex such as, text analysis method using Artificial Intelligence to seek for more visual insights. AI and deformation of text could push collaborative interpretation and enhance scholarly debate discussions. To work as a group to find more results and alternatives. “To make intelligent choices about the appropriate place of textual analysis software in their work.” (Ridolfo and Hart-Davidson 2015. 179).  Below there is an example of text analysis tool of Ramsay’s Reading;
  ![](images/Snip.JPG)
 
- ![](images/snip 2.JPG)
+ ![](images/snip2.JPG)
  
 Text analysis tool shows the trend in words and how Ramsay used certain words frequently. Finally, Ramsay’s proposal for the use of computational tools do enable a deformation of the text that could not be realistically conducted any other way and textual analysis tools provide a means of reading and performing the text to quickly arrive at quantitatively generated patterns and insights.
 
