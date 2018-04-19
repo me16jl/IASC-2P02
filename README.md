@@ -30,9 +30,9 @@ Collaboration Statement: I approach collaboration in a simple way where division
 
 ## Academic Blog
 
-Ramsay's Reading +[continue reading](blog)
+[Ramsay's Reading](blog)
 
 ## Research Presentation
 
-+[click here](reveal)
+[Daguerreotypes](reveal)
 
