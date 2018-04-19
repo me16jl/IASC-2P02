@@ -23,10 +23,10 @@ Project Description: In our collaborative project my team and I used Prism which
 Collaboration Statement: I approach collaboration in a simple way where division of responsibilities are distributed within the group members and each of us have to provide with an insight of the project. I started of the project with the introduction (available [here] (https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/87bcf7a4ac8bafc5d742090c9a6d2af1fae05832)) I also approached collaboration with the demo of the tool how it could be used in real world. Furthermore, collaboration enables us to critically analyze the team synergy within the group members and it helps to understand each other better to work better. Collaboration is important in any given situation to achieve a common academic goal. Here we understood the tool with our group effort and each of us contributed equally to further discover the deep understanding of the collaborative tool - Prism.  In terms of our workflow, we used powerpoint to review our project. Our main workflow approach was the github repository where we uploaded our own parts and gave us the assurance that all of us are on schedule by committing the changes. We also divided the 15 minute project time within 4 of us which gave us a clear goal to stay with the time frame. We started off with the intro, the research findings, the theoretical discussion and finally, the conclusion. With the idea of collaborative research in digital humanities, as cultural studies is my area of focus, this will let me explore other cultural perspectives from other scholars and work as a team to solve an issue. 
 
 
-![](images/Prism1.jpg)
+![](images/Prism1.JPG)
 
 
-![](images/Prism2.jpg)
+![](images/Prism2.JPG)
 
 ## Academic Blog
 
